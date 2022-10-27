@@ -1,9 +1,10 @@
 import React from 'react';
 import './Header.css'
+
 const Header = () => {
     return (
         <nav className='header'>
-            <h1 className='header-name'>GOODFOOD</h1>
+            <h1 className='header-name'>GOOD_FOOD</h1>
             <div className="link-site">
                 <a href="/home">Home</a>
                 <a href="/food">Food</a>
